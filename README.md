@@ -1,2 +1,2 @@
 # groq
-My public experiments with groq, ai and a task / study looper
+My public experiments with groq, ai, and a task / study looper
